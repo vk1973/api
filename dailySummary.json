@@ -1,6 +1,6 @@
-[{ "title": "Members", "value": 128, "date": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "portait" },
-    { "title": "Paid Claims", "value": 2462, "date": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "bag-heart" },
-    { "title": "Ingredient Cost", "value": 34250.45, "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "band-aid" },
-    { "title": "CSR Insurance", "value": 1890.10, "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }
+[{ "title": "Members", "value": "128", "date": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "portait" },
+    { "title": "Paid Claims", "value": "2462", "date": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "bag-heart" },
+    { "title": "Ingredient Cost", "value": "34250.45", "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "band-aid" },
+    { "title": "CSR Insurance", "value": "1890.10", "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }
 ]
 
