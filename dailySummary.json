@@ -3,6 +3,5 @@
     { "title": "CSR Deductible", "value": 3250.45, "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "band-aid" },
     { "title": "CSR CoPay", "value": 1290.10, "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" },
     { "title": "CSR CoInsurance", "value": 890.10, "date": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }
-
 ]
 
