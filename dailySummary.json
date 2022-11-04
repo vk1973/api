@@ -2,6 +2,5 @@
     { "title": "Paid Claims", "value": 2462, "date1": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "bag-heart" },
     { "title": "CSR Deductible", "value": 3250.45, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "band-aid" },
     { "title": "CSR CoPay", "value": 1290.10, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" },
-    { "title": "CSR CoInsurance", "value": 890.10, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }
-]
+    { "title": "CSR CoInsurance", "value": 890.10, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }]
 
