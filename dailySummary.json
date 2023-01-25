@@ -1,5 +1,6 @@
-[{ "title": "Members", "value": 128, "date": "Nov-02-22" },
-    { "title": "Paid Claims", "value": 2462, "date": "Nov-02-22" },
-    { "title": "Ingredient Cost", "value": 34250.45, "date": "Nov-02-22" },
-    { "title": "CSR Insurance", "value": 1890.10, "date": "Nov-02-22" }
-]
+[{ "title": "Members", "value": 132, "date1": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "portait" },
+    { "title": "Paid Claims", "value": 2462, "date1": "Nov-02-22", "isCurrency": "false", "color": "primary", "icon": "bag-heart" },
+    { "title": "CSR Deductible", "value": 3250.45, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "band-aid" },
+    { "title": "CSR CoPay", "value": 1290.10, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" },
+    { "title": "CSR CoInsurance", "value": 890.10, "date1": "Nov-02-22", "isCurrency": "true", "color": "primary", "icon": "heart-pulse" }]
+
